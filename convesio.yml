@@ -1,7 +1,7 @@
 import:
   - convesio/laravel:latest
 
-deployemts:
+ui:
   inputs:
     - name: my_database_name
       label: NAME FOR MYSQL DATABASE
